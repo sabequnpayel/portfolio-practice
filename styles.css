@@ -226,8 +226,11 @@ footer textarea{
     .banner,
     nav{
         flex-direction: column;
-        padding: 20px;
+        
         margin: auto;
+    }
+    footer{
+        padding: 20px
     }
     .about, .banner, .header{
         padding: 20px;
